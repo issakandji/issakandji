@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @issakandji
-- 👀 I’m interested in DevOps + CyberSecurity
+- 👀 I’m interested in DevSecOps
 - 🌱 I’m currently working on network security automations
 
 <!---
